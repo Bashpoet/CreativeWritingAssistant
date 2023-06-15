@@ -61,6 +61,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Disclaimer
 
 The Creative Writing Assistant utilizes OpenAI's GPT-3.5 language model, and its use is subject to OpenAI's terms and conditions. Be aware of any usage limits and requirements imposed by OpenAI. Ensure compliance with the terms of use and any applicable laws or regulations when using the Creative Writing Assistant.
-```
-
-Feel free to customize the README.md file according to your needs, adding additional sections or information specific to your implementation.
