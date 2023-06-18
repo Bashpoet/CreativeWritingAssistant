@@ -99,6 +99,7 @@ for i in range(10):  # limiting iterations to avoid potential infinite loop
         break
 
     # Print output of each iteration
+
     print("Iteration", i+1)
     print(message['content'])
 
